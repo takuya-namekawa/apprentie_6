@@ -1,4 +1,4 @@
-public class chapter_3 {
+public class chapter_4 {
     //スコープを理解する
     public static void main(String[] args) {
         int a = 10;
